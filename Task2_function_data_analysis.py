@@ -35,4 +35,5 @@ def plot_data(dna_data):
         plt.title(f"DNA Sequence {seq}")
         plt.xlabel("DNA Letters")
         plt.ylabel("Frequency")
-        plt.show()
+        
+    plt.show()
